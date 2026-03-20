@@ -1,2 +1,3 @@
-# mini-time-tracker-zfem
-Automated issue comment bot repository
+# Mini Time Tracker Zfem
+
+Automated issue comment bot repository.
